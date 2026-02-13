@@ -60,8 +60,6 @@ TELOS 是一个包含 **10 个维度** 的框架，用于全面定义个人与 A
 直接访问部署地址即可开始填写：
 
 ```
-https://telos-questionnaire.vercel.app
-# 或镜像地址
 https://wj.hqtisai.top
 ```
 
