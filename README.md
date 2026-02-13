@@ -14,7 +14,6 @@ TELOS 问卷是一个用于构建个人 AI 身份档案的工具，基于 [Danie
 
 ### 🌐 在线访问
 
-- https://telos-questionnaire.vercel.app
 - https://wj.hqtisai.top
 
 ---
